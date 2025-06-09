@@ -4,7 +4,7 @@
 ### `Create`
 
 ```
-npx create-strapi-app@latest my-project --quickstart
+npx create-strapi-app@latest Task --quickstart
 ```
 
 
