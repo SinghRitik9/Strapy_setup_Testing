@@ -1,12 +1,13 @@
 **Task 1**
 # 🚀 Getting started with Strapi
 
-### 'creation'
+### `Create`
+
 npx create-strapi-app@latest my-project --quickstart
 
 Strapi comes with a full featured [Command Line Interface] (CLI) which lets you scaffold and manage your project in seconds.
 
-### `develop`
+### `Develop`
 
 Start your Strapi application with autoReload enabled.
 
@@ -16,7 +17,7 @@ npm run develop
 yarn develop
 ```
 
-### `start`
+### `Start`
 
 Start your Strapi application with autoReload disabled. 
 
@@ -26,7 +27,7 @@ npm run start
 yarn start
 ```
 
-### `build`
+### `Build`
 
 Build your admin panel.
 
