@@ -3,7 +3,10 @@
 
 ### `Create`
 
+```
 npx create-strapi-app@latest my-project --quickstart
+```
+
 
 Strapi comes with a full featured [Command Line Interface] (CLI) which lets you scaffold and manage your project in seconds.
 
